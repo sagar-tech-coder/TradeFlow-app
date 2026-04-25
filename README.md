@@ -154,7 +154,7 @@ npm run lint       # Run ESLint
 
 ## 👤 Author
 
-**Sagar Pokhrel**
+**Sagar Pokhrel** **&**
 **Sulochana Pokhrel**
 
 
