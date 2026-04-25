@@ -74,26 +74,8 @@ npm install
 cp .env.example .env
 ```
 
-### Environment Variables
-
-Create a `.env` file in the project root:
-
-```env
-VITE_SUPABASE_URL=your_supabase_project_url
-VITE_SUPABASE_PUBLISHABLE_KEY=your_supabase_anon_key
-```
 
 Get these from your Supabase project → **Settings → API**.
-
-### Run Locally
-
-```bash
-npm run dev
-```
-
-App will be running at `http://localhost:8080`
-
----
 
 ## 📂 Project Structure
 
