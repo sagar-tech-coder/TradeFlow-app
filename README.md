@@ -126,7 +126,6 @@ tradeflow/
 
 👉 **([http://localhost:8080/](http://localhost:8080/landing))**
 
-*(Replace with your deployed URL — see deployment section below)*
 
 ---
 
